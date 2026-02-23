@@ -2,7 +2,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![ML](https://img.shields.io/badge/Machine%20Learning-Logistic%20Regression-green)](https://scikit-learn.org/)
 
-## 🎯 Overview
+## 🎯 **Overview**
 This project performs an end-to-end data science analysis on customer marketing data. The goal is to predict the success of marketing campaigns by analyzing customer demographics, income levels, and household structures.
 
 The project transitions from raw, uncleaned CSV data to a refined Machine Learning model capable of identifying high-potential leads for future targeting.
